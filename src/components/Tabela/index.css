@@ -1,0 +1,5 @@
+.linha,
+.coluna{
+    display: flex;
+    justify-content: space-between;
+}
